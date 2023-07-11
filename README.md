@@ -6,7 +6,7 @@ This repository contains the code and data for classifying a satellite image of 
 
 The objective of this project is to classify a satellite image of the Kathmandu valley and its neighboring areas into four land covers, viz. Forest, Urban, Water, and Open/cultivated Land with an accuracy of 86 percent in Python. The image was preprocessed using ArcMap 10.8.2 and training samples were taken from the preprocessed image.  During training, a callback was performed, checkpoints were saved  and hyperparameter tuning was performed.
 
-All the references were taken from the ''https://github.com/pratik-tan10/Python/blob/main/Notebooks/Satellite%20Image%20Classification%20Using%20ArcMap%20and%20Python.ipynb'' 
+All the references were taken from the ''[here](https://github.com/pratik-tan10/Python/blob/main/Notebooks/Satellite%20Image%20Classification%20Using%20ArcMap%20and%20Python.ipynb)'' 
 
 
 ### Prerequisites
