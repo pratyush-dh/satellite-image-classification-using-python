@@ -1,6 +1,6 @@
 # SatelliteImageClassificationUsingPython
 In this repository, we have classified a Landsat 8 image using Machine learning.
-This repository contains the code and data for classifying a satellite image of the Kathmandu Valley and its neighboring areas into four land covers, viz. Forest, Urban, Water, and Open/cultivated Land with an accuracy of 86 percent.
+This repository contains the code and data for classifying a satellite image of the Kathmandu Valley and its neighboring areas into four land covers: Forest, Urban, Water, and Open/cultivated Land, with an accuracy of 86 percent.
 
 ## Introduction
 
@@ -21,7 +21,7 @@ All the references were taken from the ''https://github.com/pratik-tan10/Python/
 3. Install the required packages using pip.
 
 ##Classification
-A detailed notebook is uploaded to this repository. Simply download your copy of the notebook, and follow along with the process as described. If you got better results than me, please share it. email: dh.prtsh@gmail.com .
+A detailed notebook is uploaded to this repository. Simply download your copy of the notebook, and follow along with the process as described. It can also be accessed at the bottom of this readME file. If you got better results than me, please share it. email: dh.prtsh@gmail.com .
 ## Results
 
 The satellite image was classified into four land covers with an accuracy of 86 percent using TensorFlow to train the model, gdal to read the image, and keras_tuner for hyperparameter tuning.
@@ -33,11 +33,11 @@ The satellite image was classified into four land covers with an accuracy of 86 
 ## Acknowledgments
 
 - Pratik Dhungana (https://github.com/pratik-tan10)
-```
-PredictedImage.png
-Satellite_Image_Classification_Using_Python.ipynb
-TestCFMatrixpng.png
-TrainCFMatrix.png
-accuracy.png
-loss.png
 
+https://github.com/pratyush-dh/satelliteimageclassificationusingpython/PredictedImage.png
+https://github.com/pratyush-dh/satelliteimageclassificationusingpython/Satellite_Image_Classification_Using_Python.ipynb
+https://github.com/pratyush-dh/satelliteimageclassificationusingpython/TestCFMatrixpng.png
+https://github.com/pratyush-dh/satelliteimageclassificationusingpython/TrainCFMatrix.png
+https://github.com/pratyush-dh/satelliteimageclassificationusingpython/accuracy.png
+https://github.com/pratyush-dh/satelliteimageclassificationusingpython/loss.png
+```
