@@ -34,17 +34,17 @@ The satellite image was classified into four land covers with an accuracy of 86 
 
 - Pratik Dhungana (https://github.com/pratik-tan10)
 
-[Predocted_Image](https://github.com/pratyush-dh/satellite-image-classification-using-python/blob/main/PredictedImage.png)
+[Predicted_Image](https://github.com/pratyush-dh/satellite-image-classification-using-python/blob/main/PredictedImage.png)
 
-https://github.com/pratyush-dh/satellite-image-classification-using-python/blob/master/images/Satellite_Image_Classification_Using_Python.ipynb
+[Notebook](https://github.com/pratyush-dh/satellite-image-classification-using-python/blob/main/Satellite_Image_Classification_Using_Python.ipynb)
 
-https://github.com/pratyush-dh/satellite-image-classification-using-python/blob/master/images/TestCFMatrixpng.png
+[Test Confusion Matrix](https://github.com/pratyush-dh/satellite-image-classification-using-python/blob/main/TestCFMatrixpng.png)
 
-https://github.com/pratyush-dh/satellite-image-classification-using-python/blob/master/images/TrainCFMatrix.png
+[Train Confusion Matrix](https://github.com/pratyush-dh/satellite-image-classification-using-python/blob/main/TrainCFMatrix.png)
 
-https://github.com/pratyush-dh/satellite-image-classification-using-python/blob/master/images/accuracy.png
+[Accuracy Graph](https://github.com/pratyush-dh/satellite-image-classification-using-python/blob/main/accuracy.png)
 
-https://github.com/pratyush-dh/satellite-image-classification-using-python/blob/master/images/loss.png
+[Loss Graph](https://github.com/pratyush-dh/satellite-image-classification-using-python/blob/main/loss.png)
 
 
 ```
