@@ -34,7 +34,7 @@ The satellite image was classified into four land covers with an accuracy of 86 
 
 - Pratik Dhungana (https://github.com/pratik-tan10)
 
-https://github.com/pratyush-dh/satellite-image-classification-using-python/blob/master/images/PredictedImage.png
+[Predocted_Image](https://github.com/pratyush-dh/satellite-image-classification-using-python/blob/main/PredictedImage.png)
 
 https://github.com/pratyush-dh/satellite-image-classification-using-python/blob/master/images/Satellite_Image_Classification_Using_Python.ipynb
 
