@@ -1,4 +1,4 @@
-# SatelliteImageClassificationUsingPython
+# Satellite Image Classification Using Python
 In this repository, we have classified a Landsat 8 image using Machine learning.
 This repository contains the code and data for classifying a satellite image of the Kathmandu Valley and its neighboring areas into four land covers: Forest, Urban, Water, and Open/cultivated Land, with an accuracy of 86 percent.
 
@@ -34,10 +34,17 @@ The satellite image was classified into four land covers with an accuracy of 86 
 
 - Pratik Dhungana (https://github.com/pratik-tan10)
 
-https://github.com/pratyush-dh/satelliteimageclassificationusingpython/PredictedImage.png
-https://github.com/pratyush-dh/satelliteimageclassificationusingpython/Satellite_Image_Classification_Using_Python.ipynb
-https://github.com/pratyush-dh/satelliteimageclassificationusingpython/TestCFMatrixpng.png
-https://github.com/pratyush-dh/satelliteimageclassificationusingpython/TrainCFMatrix.png
-https://github.com/pratyush-dh/satelliteimageclassificationusingpython/accuracy.png
-https://github.com/pratyush-dh/satelliteimageclassificationusingpython/loss.png
+https://github.com/pratyush-dh/satellite-image-classification-using-python/PredictedImage.png
+
+https://github.com/pratyush-dh/satellite-image-classification-using-python/Satellite_Image_Classification_Using_Python.ipynb
+
+https://github.com/pratyush-dh/satellite-image-classification-using-python/TestCFMatrixpng.png
+
+https://github.com/pratyush-dh/satellite-image-classification-using-python/TrainCFMatrix.png
+
+https://github.com/pratyush-dh/satellite-image-classification-using-python/accuracy.png
+
+https://github.com/pratyush-dh/satellite-image-classification-using-python/loss.png
+
+
 ```
